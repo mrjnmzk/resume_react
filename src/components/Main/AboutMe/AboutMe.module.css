@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f7fa;
+  padding: 20px;
+  /* font-family: Montserrat; */
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.all {
+  background-color: #fff;
+  display: flex;
+}
+
+.aboutMe {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
